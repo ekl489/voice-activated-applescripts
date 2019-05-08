@@ -1,4 +1,5 @@
-# README.md
+# Voice Activated Applescripts
+> Jarvis from Iron Man implementation for Mac using applescripts run via python voice recognition.
 
 ## Apple Script Syntax
 * The apple script content will follow usual applescript guidelines
